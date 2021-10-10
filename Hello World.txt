@@ -1,3 +1,4 @@
 print("Hello World!");
 print("Hello everybody");
 console.log("Hello");
+print(""Hello my dear friend);
